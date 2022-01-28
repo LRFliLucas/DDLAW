@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://JieGeLovesDengDuaLang/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
-</p>
-<div align="center">
+### 假装这里有张杰哥图片 ###
 
 # DengDuaLangAWei
 
