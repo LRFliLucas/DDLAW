@@ -1,4 +1,4 @@
-（假装这里有张杰哥图片）
+https://github.com/JieGeLovesDengDuaLang/EatKano/tree/main/static/image/clickbefore.png
 
 # DengDuaLangAWei
 
