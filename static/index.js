@@ -401,11 +401,12 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
         }
         // TODO 添加反馈
         if (mode === MODE_ENDLESS) return '';
-        if (score <= 49) return '试着好好练一下？';
-        if (score <= 99) return 'TCL';
-        if (score <= 149) return 'TQL';
-        if (score <= 199) return '您';
-        return '人？';
+        if (score <= 49) return '这个杰哥就是逊啊！';
+        if (score <= 99) return '酒喝太多了吧，这么逊（确信）';
+        if (score <= 149) return '当代Dua郎小子了属于是';
+        if (score <= 199) return '阿伟的菊花都撅得红肿不堪了罢（恼）';
+        if (score == 114514) return '好臭的分数啊 你开挂了罢（恼）'
+        return '你开挂了罢（恼）';
     }
 
     function toStr(obj) {
