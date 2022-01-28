@@ -1,4 +1,3 @@
-https://github.com/JieGeLovesDengDuaLang/EatKano/tree/main/static/image/clickbefore.png
 
 # DengDuaLangAWei
 
